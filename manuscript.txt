@@ -1,0 +1,78 @@
+
+
+
+
+Slide 20
+
+Finally, about BigData. This is the work / which is concentrating on most now.
+
+
+Slide 21
+
+We have been working about BigData / since 2009. At first / we researched Apache Hadoop / as just a technology. Currently, / we are investigating the possibility / of using Hadoop as a tool for analysis / and have several trial projects. Let me show you / about the projects simply.
+
+
+Slide 22
+
+This is the project which / we worked for retail banking section / several months ago. We analyzed the customer behavior / by the logs of the investment trust purchase screen / of the internet banking. 
+
+By analyzing the logs, / we found the screen / which has influence as a wall. Many customers break away / in front of the "wall" screen. Most of customers  who got over the wall  / purchased an investment trust. However, there are some customers / who got over the wall and / didn't purchase.
+
+We thought  / they might purchase with just one more push. So, we made a list of them / and gave the list to the section of retail banking. The section of retail banking sent them advertisement e-mails. As the result, / the purchase rate was greatly improved!
+
+
+Slide 23
+
+The retail bank section feels good response / and we are going to expand the trial. We are going to expand the target / to all menus. In addition, / we are going to analyze also / the website in front of the internet banking.
+
+We already analyze the customer behavior / on the website by the analysis tool. The tool can analyze  / the trends of the behavior but / it cannot analyze  / the individual behavior of customers / because the customers do not sign-up yet.
+
+On the other hand,  / the analysis of server logs of the internet banking  / can analyze the individual behavior / because the customers already signed up on the internet banking. So we are going to connect  / the analysis of the tool / with the analysis by the server logs. With that, / we will be able to analyze the individual behavior / through the website and the internet banking.
+
+Slide 24
+
+Next is about the trial / for corporate banking.
+
+We tried the predictive analysis / of credit default risk / using financial statement data.
+
+Please look at this chart. This chart shows the accuracy of predictions / for the default alert .
+
+The lines from 1st to 7th / are the results of analysis / which were made by Excel and Access. Only the 8th one is  / the result of BIgData technology.
+
+Look at the leftmost line. This is the result of the first analysis. The corporate banking section / made the list of the analysis for the default prediction / on September 2008. Some companies / which downgraded the credit rating / had been appearing over time. This line shows the accumulation rate / how many companies were actually downgraded. 
+
+You can see that / the curves become increasingly sharp with each time. This means that / the accuracy of the default alert predictions / has been improving. 
+
+And you can also see that / the rightmost curve is the sharpest. This is the result of BigData. The 8th list exceeded the result / for the 7th list's half a year / in only one month. The 8th list contains the analysis / using data over a longer period of time.
+
+
+Slide 25
+
+The section of corporate banking / also feels good response. As next trial, / we are going to use / not only static data / but also dynamic data, / such as transfer histories and / changes in account balance. And we are going to target / not only risk analysis / but also marketing analysis. Please see the data at hand about an outline.
+
+
+Slide 26
+
+This is the information of our BigData platform. This platform is still for trial, / so it's still small. The technology under present investigation is / listed in the lower side. If there is an opportunity, / I would like to report / results of the investigation / at a next conference.
+
+
+Slide 27
+
+If you want to use the platform, / please contact me by e-mail.
+
+
+Slide 28
+
+Now, I would like to conclude our talk. If you would like to have further information, / please don't hesitate to contact us. Thank you for your kind attention.
+
+
+
+
+
+
+
+
+
+
+
+
