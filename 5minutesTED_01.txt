@@ -1,0 +1,230 @@
+Today, I would like to introduce one of TED’s speech.
+The title is “How I hacked online dating”.
+
+~~~~
+
+Do you know TED ?
+TED is a global set of conferences under the slogan “ideas worth spreading”.
+In this web sites, the speech of those conderences are uploaded.
+
+~~~~
+
+The speech which I choose is one of the most favorite speeche in last year.
+Have you ever watched this movie?
+As you can see in the title, this speech is about the story which Amy Webb found her husband in an online-dating.
+
+~~~~
+
+Her speech is not only very fun, 
+
+~~~~
+
+But also very interesting in terms of these points.
+First is about her approaching method to the online-dating. She adopt a very unique method of data-science to get her ideal husband.
+Second is her encouraging message. Her message is very encouraging for people who is in hardship or is tring hard challenge.
+
+~~~~
+
+In her story, there are some ups and downs.
+This chart shows them.
+So, I’ll show you her story along this chart.
+
+~~~~
+
+A few years ago, she was 30 years old, she didn’t have boy-friend who will be her husband.
+And her very large family was already all married and well on their way to having lots and lots of children.
+And she felt like she was under tremendous peer pressure.
+
+~~~~
+
+Her grandmother, who always had plenty of advice,  said, "Stop being so picky. You've got to date around.“
+It means that let down your hurdle and let big your target.
+And have lots of date with men.
+And her grandmother said “ true love will find you when you least expect it."
+
+~~~~
+
+So, she confirmed that there are a lots of possibilities in philadephipa where she lived in.
+She figured the number of men who meet her least expect.
+The result was only 35.
+So, she decided to try online-dating to get more big possibilities.
+
+~~~~
+
+This story starts from signing-on the online dating.
+
+~~~~
+
+At first, she wouldn’t lift a finger to answer about the system question for her profile.
+She copied and pasted highlights from her job resume.
+She said that she was an award-winning journalist and a future thinker. 
+When she was asked about fun activities and her ideal date, she said monetization and fluency in Japanese. 
+she talked a lot about JavaScript.
+
+~~~~
+
+Even if she answered such information, the algorithm matched a lot of men.
+
+~~~~
+
+This is one of such men, Steve, the I.T. guy.
+The algorithm matched them up because they share a love of gadgets, 
+they share a love of math and data and '80s music, and so she agreed to go out with him. 
+
+~~~~
+
+So Steve the I.T. guy invited her out to one of Philadelphia's white-table-cloth, extremely expensive restaurants.
+He was ordering multiple appetizers, multiple entrées, also lots and lots of bottles of wine. 
+
+When he gets up to go to the bathroom, 
+
+~~~~
+
+and in the meantime the bill comes to their table. 
+But then he didn't come back. 
+
+~~~~
+
+She decided to hack the online-dating in the wake of such terrible date.
+
+~~~~
+
+At first, She listed 72 different data points what she requires to men.
+
+~~~~
+
+And then, she built her own scoring system.
+She prioritized these points.
+She broke it into a top tier and second tier of points, and she ranked everything.
+On the top tier, the imperative points is listed.
+On the second tier, you can see in this slide, the points which are also important to her but not necessarily deal-breakers.
+ 
+~~~~
+
+And she set the threshold value.
+
+If it’s scored over 700 points, she would agree to email somebody or respond to an email message. 
+If it’s scored over 900 points, she'd agree to go out on a date. 
+Until somebody had exceeded the 1500 points threshold, she wouldn’t even consider any kind of relationship.
+
+This system worked very well.
+
+~~~~
+
+She found Jewishdoc57 who's incredibly good-looking, incredibly well-spoken, he had hiked Mt. Fuji, and so on.
+
+And she thought, 
+“ I've done it! 
+  I've cracked the code. 
+  I have just found the Prince Charming of my family's dreams. “
+
+~~~~
+
+But there was only one problem.
+
+~~~~
+
+He didn't like her back.
+
+~~~~
+
+She thought that she need to do some market-research.
+
+~~~~
+
+10 fake male profile
+So she created 10 fake male profiles 
+to gather data of woman who were going to be attracted 
+to the type of man that she really wanted to marry.
+
+~~~~
+
+One of such women is this, SmileyGirl1978.
+So she recognized that content of profile matters a lot.
+For example, popular men and women write 97 words on average in their profile.
+
+~~~~
+
+The other feature is using optimistic language. 
+This is a word cloud highlighting the most popular words that were used by the most popular women, words like "fun" and "girl" and "love."
+
+~~~~
+
+And, photos matters.
+All of the women who were popular showed some skin. 
+
+~~~~
+
+They were very different from what she had uploaded.
+
+~~~~
+
+Once she had all of this information, 
+she was able to create a super profile, 
+so it was still her, 
+but it was her optimized for this ecosystem.
+
+~~~~
+
+Thanks to the super profile, she was the most popular person online.
+Lots and lots of men wanted to date her.
+
+~~~~
+
+In her scoring system, they have to reach a minimum threshold of 700 points, and none of them have done that.
+
+~~~~
+
+But, not too long after that, she found this guy, Thevenin.
+
+~~~~
+
+His profile was scored 850 points. It was enough for a date.
+Three weeks later, they met up in person and their conversation became lively.
+
+~~~~
+
+At that night, she re-scored him -- [1,050 points!] -
+
+~~~~
+
+And, a year and a half after that, when they are traveling, he got down on his knee and proposed. 
+A year after that, they were married, and about a year and a half after that, their daughter was born.
+
+~~~~
+
+Congratulations!
+
+~~~~
+
+I said that there are two interesting points in her story.
+
+~~~~
+
+One is her unique method for data-science.
+She created 10 fake male profiles to gather data efficiently.
+And she built her own framework to evaluate profiles.
+
+It means that what is important for data science is not only technology of statistics, but also originality and ingenuity to treat data.
+
+~~~~
+
+Second is her encouraging message.
+
+She said that it was not wrong for her that she is picky. She hasn’t been picky enough. 
+
+At the end of the speech, she said
+“whether you're looking for a husband or a wife 
+or you're trying to find your passion 
+or you're trying to start a business, 
+all you have to really do is figure out your own framework 
+and play by your own rules, 
+and feel free to be as picky as you want.”
+
+~~~~
+
+Especially, this message cut me to the heart.
+“Feel free to be as picky as you want”
+
+Thank you.
+
